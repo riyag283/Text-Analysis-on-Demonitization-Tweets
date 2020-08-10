@@ -10,6 +10,6 @@ From a given set of about 15,000 Twitter messages, all supposedly about demoneti
 
 4. Discovered several major classes of messages, i.e., cluster and/or classify them into a few groups of related messages (based on their textual content in addition to other attributes). Classification based only on timestamp, sender, etc. is not valid.
 
-5. Generated some form of visualization of the messages: from the simplest of plots to the most sophisticated visualizations.
+5. Generated some form of visualization of the messages.
 
 6. Testing of the hypothesis that demonetization had majority popular support is done, based on the results from above steps.
